@@ -1,6 +1,6 @@
 # LinuxPackTrans
-Here are two simple Shell scripts designed for Debian-based Linux distributions. These scripts automate the process of installing all the packages you have installed on one Debian-based system onto another.
-
+(A somewhat similar to apt-clone)
+Here are two simple Shell scripts designed for Debian-based Linux distributions. These scripts automate the process of installing all the packages you have installed on one Debian-based system onto another. 
 Let's say you have a 'System A' and you want to replicate all the installed packages onto another system named 'System B'.
 
 Script-1 package_finder[dot]sh. 
